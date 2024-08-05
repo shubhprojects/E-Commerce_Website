@@ -2,23 +2,28 @@ E-Commerce Website
 Overview
 This is a comprehensive e-commerce website designed to provide a seamless shopping experience. It includes features such as product listings, shopping cart, user authentication, and payment integration.
 
-Features
+Features:
+
 Product Catalog: Browse and search through a wide range of products.
 Shopping Cart: Add products to the cart and proceed to checkout.
 User Authentication: Sign up, log in, and manage user profiles.
 Order Management: View and track orders.
 Payment Integration: Secure payment gateway for processing transactions.
-Technologies Used
+
+Technologies Used:
 Frontend:
 HTML
 CSS
 JavaScript
 React.js
+
 Backend:
 Node.js
 Express.js
+
 Database:
 MongoDB
+
 Installation
 Prerequisites
 Node.js
