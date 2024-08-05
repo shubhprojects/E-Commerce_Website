@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/shubhprojects/e-commerce-website.git
+git clone https://github.com/shubhprojects/e-commerce_website.git
 cd e-commerce-website
 Install dependencies:
 
